@@ -98,6 +98,45 @@ To keep the application **responsive and production-ready**, the following optim
 
 ---
 
+## 🤗 Hugging Face Model Access & Pricing
+
+### Model Used
+- **Model name**: `nlptown/bert-base-multilingual-uncased-sentiment`
+- **Provider**: Hugging Face
+- **License**: Open-source
+- **Cost**: **Free**
+
+### Pricing Information
+This project uses a **publicly available pre-trained model** hosted on Hugging Face.
+There is **no cost** associated with:
+- downloading the model
+- running inference locally
+- using it for personal or educational projects
+
+The model is executed **locally on CPU**, without relying on paid APIs.
+
+⚠️ Costs may only apply if using:
+- Hugging Face **Inference API** (optional)
+- GPU-based cloud deployments
+
+Once downloaded, the model is cached locally and reused across application runs, ensuring fast startup times.
+
+---
+
+### How to Get the Model
+
+The model is automatically downloaded the **first time the application is run**.
+
+No manual download is required.
+
+If you want to download it manually:
+
+```bash
+pip install transformers torch sentencepiece
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Python 3.10**
