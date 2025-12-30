@@ -137,6 +137,7 @@ thorfin-product-insights/
 ├── requirements.txt
 └── README.md
 ```
+---
 
 ## 🧪 Example Use Case
 
@@ -155,6 +156,7 @@ thorfin-product-insights/
 - Strong focus on business value
 - Clean, modular, and maintainable code
 
+---
 
 ## 👤 Author
 
