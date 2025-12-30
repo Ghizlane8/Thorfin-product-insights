@@ -1,4 +1,5 @@
 # 🚀 Thorfin Product Insights — AI-Powered Product Analytics Dashboard
+> An end-to-end Data & AI project combining multilingual sentiment analysis and product analytics to support real-world product decisions.
 
 **Thorfin Product Insights** is an interactive **Data & AI dashboard** built with **Streamlit**, designed to help product teams analyze customer reviews, product performance, and sentiment trends across **multiple languages**.
 
