@@ -134,7 +134,9 @@ If you want to download it manually:
 ```bash
 pip install transformers torch sentencepiece
 ```
+The model is applied during product analysis and evaluation steps, and is not executed continuously across the entire dataset.
 
+ 
 ---
 
 ## 🛠️ Tech Stack
@@ -158,12 +160,12 @@ conda create -n cpu python=3.10
 conda activate cpu
 ```
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-3️⃣ Run the application
+### 3️⃣ Run the application
 ```bash
 streamlit run thorfin_app.py
 ```
