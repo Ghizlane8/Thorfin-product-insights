@@ -134,6 +134,7 @@ If you want to download it manually:
 ```bash
 pip install transformers torch sentencepiece
 ```
+In practice,
 The model is applied during product analysis and evaluation steps, and is not executed continuously across the entire dataset.
 
  
@@ -204,4 +205,4 @@ A product manager wants to quickly identify products with high customer dissatis
 ## 👤 Author
 
 **Ghizlane Baali**
-**baali.ghizlane2@gmail.com**
+**📫 baali.ghizlane2@gmail.com**
