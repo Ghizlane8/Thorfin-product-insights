@@ -140,14 +140,15 @@ thorfin-product-insights/
 ```
 ---
 
-## 🧪 Example Use Case
+## **Use case**:  
+A product manager wants to quickly identify products with high customer dissatisfaction across different countries and languages — without manually reading hundreds of reviews.
 
-- A product manager wants to quickly identify products with high customer dissatisfaction across different countries and languages — without manually reading hundreds of reviews.
-- Thorfin Product Insights provides:
+**Thorfin Product Insights provides**:
 - AI-powered sentiment breakdown
 - Clear visual indicators
 - Automated summaries
 - Actionable recommendations
+
 
 ## 🎓 What This Project Demonstrates
 
